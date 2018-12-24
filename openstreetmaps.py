@@ -1,4 +1,4 @@
-#code utf-8
+#encode utf-8
 import geopandas
 import fiona
 import matplotlib
