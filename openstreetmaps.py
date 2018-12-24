@@ -1,5 +1,5 @@
 #encode utf-8
-import geopandas
+import geopandas #conda install -c ioos geopandas , caso use o jupyter notebook e não possua a lib.
 import fiona
 import matplotlib
 %matplotlib inline
